@@ -221,7 +221,6 @@ function create_config( )
     "t2i",
     "antiflood",
     "aboutme",
-    "meabout",
     "antispamm",
     "plugins",
     "me",
